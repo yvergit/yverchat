@@ -1,3 +1,3 @@
-# Chat app
+# Awsome chat app
 
 Heavily inspired by pictochat.
