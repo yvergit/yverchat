@@ -1,4 +1,4 @@
 # Awsome chat app
 
-Heavily inspired by pictochat.
+Inspired by pictochat.
 Soon Live
